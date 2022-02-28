@@ -1,2 +1,2 @@
-# bobby
+# ChampionTable
 Created with CodeSandbox
